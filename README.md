@@ -1,6 +1,6 @@
 
 ![output](https://user-images.githubusercontent.com/40145410/69492386-fa03be80-0eaa-11ea-9da5-c10a2a694e19.gif)
-
+**⭐ Looking for a Junior Developer, Data Science or Computer Vision position ⭐** 
 
 
 ### Hi there,👋 I'm Chen.
@@ -12,7 +12,6 @@
 - 🎓  Planning to study a masters degree after.
 - 📷 Passionate about Computer Vision 
 
-⭐ Looking for a Junior Developer, Data Science or Computer Vision position ⭐
 
 
 
