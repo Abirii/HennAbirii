@@ -1,5 +1,5 @@
 
-![output](https://user-images.githubusercontent.com/40145410/69492386-fa03be80-0eaa-11ea-9da5-c10a2a694e19.gif)  
+![Demo](https://user-images.githubusercontent.com/40145410/58424277-c254bf00-809f-11e9-9db9-a81e0a0925e6.gif)
 
 **⭐ Looking for a Junior Developer, Data Science or Computer Vision position ⭐** 
 
