@@ -1,19 +1,23 @@
 
 ![Demo](https://user-images.githubusercontent.com/40145410/58424277-c254bf00-809f-11e9-9db9-a81e0a0925e6.gif)
 
-**⭐ Looking for a Junior Developer, Data Science or Computer Vision position ⭐** 
+**🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
 
 
 ### Hi there,👋 I'm Chen.
-
 
 - 🎯 Autodidact.
 - 💻  **Working on a social and technological project in my free time**.
 - 🎓  Currently studying Computer Science at The Open University Of Israel, until November.  
 - 🎓  Planning to study a masters degree after.
-- 📷 Passionate about Computer Vision 
 
 
+### I'm Passion about
+- 💻 Programming
+- 💿 New Technologies
+- 📈 Deep Learning
+- 📷 Computer Vision 
+- 🍕 Pizza
 
 
 ### Languages and Tools:
@@ -25,6 +29,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="drawing" width="28"/>
 <img align="left" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" alt="drawing" width="28"/>
 <img align="left" src="https://pbs.twimg.com/profile_images/969014476841238528/soxZyFnF_400x400.jpg" alt="drawing" width="28"/>
+
 
 
 
