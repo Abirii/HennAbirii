@@ -1,5 +1,3 @@
-<!--
-**Abirii/Abirii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there,👋 I'm Chen.
 -  ⭐ Looking for a Junior Developer, Data Science and Computer Vision positions
 
@@ -10,7 +8,6 @@
 - 💻  **Working on a social and technological project in my free time**.
 - 🎓  Currently studying Computer Science at The Open University Of Israel, until November.  
 - 🎓  Planning to study a masters degree after.
-
 
 
 
