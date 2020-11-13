@@ -2,9 +2,6 @@
 ### Hi there,👋 I'm Chen.
 **🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
 
-![Demo](https://user-images.githubusercontent.com/40145410/58424277-c254bf00-809f-11e9-9db9-a81e0a0925e6.gif)
-
-
 
 - 💻  **Working on a social and technological project in my free time**.
 - 🎓  Currently studying Computer Science at The Open University Of Israel, until November and planning to study a masters degree after.
