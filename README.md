@@ -4,7 +4,7 @@
 
 
 - 💻  **Working on a social and technological project in my free time**.
-- 🎓  Currently studying Computer Science at The Open University Of Israel until november, and planning to study a masters degree after.
+- 🎓  Currently studying Computer Science at The Open University Of Israel until November, and planning to study a masters degree after.
 
 ### I'm Passion about
 - 💻 Programming
