@@ -9,7 +9,7 @@
 ### I'm Passion about
 - 💻 Programming
 - 💿 New Technologies
-- 📈 Deep Learning
+- 📈 Machine and Deep Learning
 - 📷 Computer Vision 
 - 🍕 Pizza
 
