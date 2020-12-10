@@ -6,7 +6,7 @@
 I am a Computer Science Student at The Open University until November, and planning to study a masters degree after.
 Excellent problem solving skills, autodidact, detail focused and organized. Capable and willing to learn new technologies.
 
-- 💻  Currently I'm working on a social entrepreneurship digital project based on deep learning and computer vision
+- 🎯  Currently I'm working on a social entrepreneurship digital project based on deep learning and computer vision
 algorithms. The project is implemented in Python and requires academic literature review on face recognition topics,
 and extensive knowledge in the fields of data and files processing and analysis. Furthermore, in order to improve the
 algorithm, the project requires decision making based on the given results, innovation, and creative thinking..
