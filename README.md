@@ -22,6 +22,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="drawing" width="50"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="drawing" width="50"/>
 <img align="left" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" alt="drawing" width="50"/>
+<img align="left" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="drawing" width="50"/>
 
 
 
