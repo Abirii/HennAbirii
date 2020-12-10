@@ -15,7 +15,7 @@
 
 
 ### Languages and Tools:
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" alt="drawing" width="28"/>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" alt="drawing" width="100"/>
 <img align="left" src="https://miro.medium.com/max/435/1*3ls05S8eB0vbfYaHcqjGqg.jpeg" alt="drawing" width="28"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="drawing" width="28"/>
 <img align="left" src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" alt="drawing" width="28"/>
