@@ -3,7 +3,10 @@
 **🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
 
 
-- 💻  **Working on a social and technological project in my free time**.
+- 💻  Currently I'm working on a social entrepreneurship digital project based on deep learning and computer vision
+algorithms. The project is implemented in Python and requires academic literature review on face recognition topics,
+and extensive knowledge in the fields of data and files processing and analysis. Furthermore, in order to improve the
+algorithm, the project requires decision making based on the given results, innovation, and creative thinking..
 - 🎓  Currently studying Computer Science at The Open University Of Israel until November, and planning to study a masters degree after.
 
 ### I'm Passion about
