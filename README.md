@@ -10,7 +10,6 @@ Excellent problem solving skills, autodidact, detail focused and organized. Capa
 algorithms. The project is implemented in Python and requires academic literature review on face recognition topics,
 and extensive knowledge in the fields of data and files processing and analysis. Furthermore, in order to improve the
 algorithm, the project requires decision making based on the given results, innovation, and creative thinking..
-- 🎓  Currently studying Computer Science at The Open University Of Israel until November, and planning to study a masters degree after.
 
 ### I'm Passion about
 - 💻 Programming
