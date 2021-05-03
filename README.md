@@ -3,7 +3,7 @@
 **🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
 
 
-I am a Computer Science Student at The Open University until November, and planning to study a masters degree after.
+I am a Computer Science graduate from The Open University, and planning to study a masters degree.
 Excellent problem solving skills, autodidact, detail focused and organized. Capable and willing to learn new technologies.
 
 
