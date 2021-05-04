@@ -3,7 +3,7 @@
 **🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
 
 
-I am a Computer Science graduate from The Open University. 
+I am a Computer Science graduate from The Open University.  
 Excellent problem solving skills, autodidact, detail focused and organized.
 
 
