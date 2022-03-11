@@ -23,7 +23,7 @@ I am Machine Learning Engineer. Loves to explore and use the power of data to ma
 <img align="left" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" alt="drawing" width="50"/>
 <img align="left" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="drawing" width="50"/>
 <img align="left" src="https://www.guardicore.com/wp-content/uploads/docker.png" alt="drawing" width="50"/>
-<img align="left" src="![image](https://user-images.githubusercontent.com/40145410/157893434-6d651aea-506b-4573-a0d6-73052520995d.png)" alt="drawing" width="50"/>
+<img align="left" src="https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png" alt="drawing" width="50"/>
 
 
 
