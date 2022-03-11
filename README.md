@@ -22,7 +22,7 @@ I am Machine Learning Engineer. Loves to explore and use the power of data to ma
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="drawing" width="50"/>
 <img align="left" src="https://i.pinimg.com/originals/8f/ad/12/8fad125b8f6082bdb7deb0aa593dfb49.jpg" alt="drawing" width="50"/>
 <img align="left" src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="drawing" width="50"/>
-<img align="left" src="https://miro.medium.com/max/481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="drawing" width="50"/>
+<img align="left" src="![image](https://user-images.githubusercontent.com/40145410/157892715-08021a5a-88d2-4bba-b67a-25c00cc676bd.png)" alt="drawing" width="50"/>
 
 
 
