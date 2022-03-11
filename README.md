@@ -2,11 +2,6 @@
 ### Hi there,👋 I'm Hen,
 I am Machine Learning Engineer. Loves to explore and use the power of data to make an impact.
 
-
-I am a Computer Science graduate from The Open University.  
-Excellent problem solving skills, autodidact, detail focused and organized.
-
-
 ### I'm Passion about
 - 💻 Programming
 - 💿 New Technologies
