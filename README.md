@@ -1,6 +1,6 @@
 
-### Hi there,👋 I'm Chen.
-**🔎 Looking for a Junior Developer, Data Science or Computer Vision position 🔎** 
+### Hi there,👋 I'm Hen,
+I am Machine Learning Engineer. Loves to explore and use the power of data to make an impact.
 
 
 I am a Computer Science graduate from The Open University.  
@@ -13,6 +13,9 @@ Excellent problem solving skills, autodidact, detail focused and organized.
 - 📈 Machine and Deep Learning
 - 📷 Computer Vision 
 - 🍕 Pizza
+
+
+
 
 
 ### Languages and Tools:
